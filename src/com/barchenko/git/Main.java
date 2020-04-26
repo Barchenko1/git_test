@@ -8,5 +8,6 @@ public class Main {
         System.out.println("She");
         System.out.println("rebase");
         System.out.println("merge");
+        System.out.println("rebaseNewBr");
     }
 }
