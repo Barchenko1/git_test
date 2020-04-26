@@ -1,4 +1,4 @@
 package com.barchenko.git;
 
-public class Person {
+public class User {
 }
