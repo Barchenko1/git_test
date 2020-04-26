@@ -7,5 +7,6 @@ public class Main {
         System.out.println("He");
         System.out.println("She");
         System.out.println("rebase");
+        System.out.println("merge");
     }
 }
